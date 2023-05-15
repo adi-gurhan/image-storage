@@ -1,0 +1,10 @@
+/* image1.css */
+
+/* Default styles for images */
+img {
+  display: block;
+  margin-bottom: 10px; /* Add desired spacing between images */
+  width: 800px; /* Set the width of the image to 800 pixels */
+  height: 800px; /* Set the height of the image to 800 pixels */
+  object-fit: cover; /* Maintain aspect ratio and fill the container */
+}
